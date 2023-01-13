@@ -20,7 +20,7 @@ http://www.linkedin.com/in/GunHeeLee
 
 * [University of Washington][] The best University in Washington State.*
 
-** (Undergraduate Student)** (9/23/2019 - 8/15/2023)
+**Undergraduate Student** (9/23/2019 - 8/15/2023)
 
 Summary of your role
 
