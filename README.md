@@ -1,4 +1,4 @@
-# **GunHee Lee**
+# GunHee Lee
 
 Joshua1234@naver.com
 
@@ -24,8 +24,8 @@ http://www.linkedin.com/in/GunHeeLee
 
 Summary of your role
 
-**Memeber of KSU.**
-**Recommended from Honor Society.**
-**Double major, major in Geography data science and minor in informatics.**
+-Memeber of KSU
+-Recommended from Honor Society
+-Double major, major in Geography data science and minor in informatics
 
 [University of Washington]: http://www.washington.edu
