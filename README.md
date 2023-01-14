@@ -33,4 +33,3 @@ Summary of your role
 # Start Bootstrap - The Big Picture
 * [The Big Picture][] is a HTML template with a full page background image.
 
-[The Big Picture]: 
