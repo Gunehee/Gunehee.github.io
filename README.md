@@ -31,6 +31,6 @@ Summary of your role
 [University of Washington]: http://www.washington.edu
 
 # Start Bootstrap - The Big Picture
-* [The Big Picture][] is a HTML template with a full page bkacground image.
+* [The Big Picture][] is a HTML template with a full page background image.
 
 [The Big Picture]: 
