@@ -2,7 +2,7 @@
 
 Joshua1234@naver.com
 
-http://www.Nate.com
+http://www.Google.com
 
 http://www.linkedin.com/in/GunHeeLee
 
