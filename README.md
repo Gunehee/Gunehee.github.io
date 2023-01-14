@@ -8,7 +8,7 @@ http://www.linkedin.com/in/GunHeeLee
 
 # Summary
 
- I'm a very fast learner and dilligent.
+ I'm a very fast learner and dilligent. Love the challenge and always cooperative with people.
 
 # Work Experience (only last 10 years)
 
@@ -29,7 +29,6 @@ Summary of your role
 - **Double major, major in Geography data science and minor in informatics**
 
 [University of Washington]: http://www.washington.edu
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
