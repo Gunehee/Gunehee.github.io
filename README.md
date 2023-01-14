@@ -29,7 +29,11 @@ Summary of your role
 - **Double major, major in Geography data science and minor in informatics**
 
 [University of Washington]: http://www.washington.edu
-<!DOCTYPE html>
+
+# Start Bootstrap - The Big Picture
+* [The Big Picture][] is a HTML template with a full page bkacground image.
+
+* <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -75,3 +79,4 @@ Summary of your role
         <script src="js/scripts.js"></script>
     </body>
 </html>
+[The Big Picture]: 
