@@ -32,16 +32,5 @@ Summary of your role
 
 # Start Bootstrap - The Big Picture
 * [The Big Picture][] is a HTML template with a full page background image.
-        <!-- Page Content-->
-        <section>
-            <div class="container px-4 px-lg-5">
-                <div class="row gx-4 gx-lg-5">
-                    <div class="col-lg-6">
-                        <h1 class="mt-5">The Big Picture</h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt voluptates rerum eveniet sapiente repellat esse, doloremque quod recusandae deleniti nostrum assumenda vel beatae sed aut modi nesciunt porro quisquam voluptatem.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+  
 [The Big Picture]: https://www.gunehee.github.io
