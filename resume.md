@@ -18,7 +18,7 @@ http://www.linkedin.com/in/GunHeeLee
 
 ## University of Washington (Seattle, Washington)
 
-![UW image](img/UW-husky.png)
+<img src="img/UW-husky.png")
 
 * [University of Washington][] The best University in Washington State.
 
