@@ -18,14 +18,15 @@ http://www.linkedin.com/in/GunHeeLee
 
 ## University of Washington (Seattle, Washington)
 
-* [University of Washington][] The best University in Washington State.*
+* [University of Washington][] The best University in Washington State.
 
 **Undergraduate Student** (9/23/2019 - 8/15/2023)
 
 Summary of your role
 
-- **Memeber of KSU**
+- **Memeber of [KSU]**
 - **Recommended from Honor Society**
 - **Double major, major in Geography data science and minor in informatics**
 
 [University of Washington]: http://www.washington.edu
+[KSU]: https://huskylink.washington.edu/organization/dongari
