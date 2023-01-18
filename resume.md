@@ -8,7 +8,7 @@ http://www.linkedin.com/in/GunHeeLee
 
 # Summary
 
-<p>I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near.<p>
+**I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near.**
 
  I'm a very fast learner and dilligent. Love the challenge and always cooperative with people.
 
