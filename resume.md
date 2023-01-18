@@ -8,7 +8,7 @@ http://www.linkedin.com/in/GunHeeLee
 
 # Summary
 
-**I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near. (Margaret Thatcher)**
+>I do not know anyone who has got to the top without hard work. That is the recipe. It will not always get you to the top, but should get you pretty near. (Margaret Thatcher)
 
  I'm a very fast learner and dilligent. Love the challenge and always cooperative with people.
 
@@ -21,16 +21,7 @@ http://www.linkedin.com/in/GunHeeLee
 
 ## University of Washington (Seattle, Washington)
 
-<html>
-<head>
-<title>UW Campus</title>
-<head>
-
-<body>
-<img src="img/UW-husky.png")
-
-</body>
-</html>
+![](Picture_image\UW-husky.png)
 
 * [University of Washington][] The best University in Washington State.
 
