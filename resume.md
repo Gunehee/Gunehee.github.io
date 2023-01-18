@@ -18,6 +18,8 @@ http://www.linkedin.com/in/GunHeeLee
 
 ## University of Washington (Seattle, Washington)
 
+![UW image](img/UW image.webp)
+
 * [University of Washington][] The best University in Washington State.
 
 **Undergraduate Student** (9/23/2019 - 8/15/2023)
